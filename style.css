@@ -1,0 +1,9 @@
+div {
+  width: 100%;
+  max-width: 200px;
+  height: 100vw;
+  border: 1px solid black;
+  font-size: 30px;
+  font-weight: 300;
+
+}
